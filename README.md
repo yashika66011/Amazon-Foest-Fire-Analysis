@@ -1,1 +1,1 @@
-# Amazon-Foest-Fire-Analysis
+# Amazon-Forest-Fire-Analysis
